@@ -1,0 +1,3 @@
+ 1. Open RGB_code file you need Arduino Idel in your computer.
+
+ 2. Thank You.
